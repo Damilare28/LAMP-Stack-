@@ -2,7 +2,7 @@
 
 # Purpose of this Project: 
 This project helps to develop deep understanding on the following
-##### • Linux Terminal
+      • Linux Terminal
       •Understanding on web technology stack such as LAMP
       •Components of LAMP Stack: LINUX, APACHE, MYSQL, PHP
       •How the Lamp stack works
